@@ -1,7 +1,7 @@
 name: Lycka The Grid
 favicon: null
 layout_spectrum: 0.49029
-typography_spectrum: 0.08155
+typography_spectrum: 0.42136
 title: Lycka Frozen Yogurt
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#faf9f9'
-    - '#fec42d'
-    - '#4ea752'
-    - '#000000'
-    - '#84da61'
+    - '#ebebed'
+    - '#bbbabe'
+    - '#ffb419'
+    - '#ff3649'
+    - '#ff6e77'
   brandStrength: 0
   lightness: 0.875
   saturation: 0.1875
