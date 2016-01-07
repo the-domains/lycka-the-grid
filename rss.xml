@@ -4,15 +4,8 @@
         <description><![CDATA[Lycka Frozen Yogurt]]></description>
         <link>https://thegrid.ai/lycka-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 21:31:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lycka-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.lyckafrozenyogurt.de/assets/uploads/2014/07/0002_Mango_Frontside_bio1.png">]]></description>
-            <link>https://thegrid.ai/lycka-the-grid/05d670c7-5cd5-4389-a640-a9d682fd50f5/index.html</link>
-            <guid isPermaLink="false">05d670c7-5cd5-4389-a640-a9d682fd50f5</guid>
-            <pubDate>Thu, 07 Jan 2016 21:32:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.lyckafrozenyogurt.de/assets/themes/lycka/img/welthungerhilfe.png">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.instagram.com/p/_1Gg9vIQBj/?taken-by=lyckafrozenyogurt</link>
             <guid isPermaLink="false">f6fd4439-bff7-45c6-a4d4-72560d74fb42</guid>
             <pubDate>Thu, 07 Jan 2016 21:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TEILE DEIN GLÜCK]]></title>
+            <description><![CDATA[<article><h1>TEILE DEIN GLÜCK</h1><p>Geteiltes Glück ist doppelte Freude. Falls dir Lycka gefällt, erzähle deinen Freunden von uns. Facebook, Instagram oder gerne auch im echten Leben. Denk beim nächsten Einkauf an uns und bring dir und deinen Freunden einen mit. Danke dir und lasst es euch schmecken.</p></article>]]></description>
+            <link>https://thegrid.ai/lycka-the-grid/84d70b1e-43b9-484b-9301-bc6efe45a93d/index.html</link>
+            <guid isPermaLink="false">84d70b1e-43b9-484b-9301-bc6efe45a93d</guid>
+            <pubDate>Thu, 07 Jan 2016 21:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
