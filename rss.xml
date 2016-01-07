@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lycka The Grid]]></title>
-        <description><![CDATA[Lycka The Grid]]></description>
+        <title><![CDATA[Lycka Frozen Yogurt]]></title>
+        <description><![CDATA[Lycka Frozen Yogurt]]></description>
         <link>https://thegrid.ai/lycka-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 21:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lycka-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bauch vollgeschlagen über die Weihnachtstage? Hier ein paar Silvester Snackideen auf der gesünderen Seite: - Obstplatte - Erdbeeren getunkt in dunkle Schokolade und gehackten Haselnüssen - Walnuss Zimt Cookies (Rezept bereits gepostet) - Lycka Frozen Yogurt (unter 90kcal pro 100ml!) Dann dürfen nur noch die Freunde/Familie und der Spaß nicht fehlen😉✨ #LyckaBringtFreude #JederBecherHilft]]></title>
+            <description><![CDATA[<article><h1>Bauch vollgeschlagen über die Weihnachtstage? Hier ein paar Silvester Snackideen auf der gesünderen Seite: - Obstplatte - Erdbeeren getunkt in dunkle Schokolade und gehackten Haselnüssen - Walnuss Zimt Cookies (Rezept bereits gepostet) - Lycka Frozen Yogurt (unter 90kcal pro 100ml!) Dann dürfen nur noch die Freunde/Familie und der Spaß nicht fehlen😉✨ #LyckaBringtFreude #JederBecherHilft</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afab8cebafe521bf7c7768f98ede0782b7a2c845.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/_1Gg9vIQBj/?taken-by=lyckafrozenyogurt</link>
+            <guid isPermaLink="false">f6fd4439-bff7-45c6-a4d4-72560d74fb42</guid>
+            <pubDate>Thu, 07 Jan 2016 21:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TEILE DEIN GLÜCK]]></title>
             <description><![CDATA[<article><h1>TEILE DEIN GLÜCK</h1><p>Geteiltes Glück ist doppelte Freude. Falls dir Lycka gefällt, erzähle deinen Freunden von uns. Facebook, Instagram oder gerne auch im echten Leben. Denk beim nächsten Einkauf an uns und bring dir und deinen Freunden einen mit. Danke dir und lasst es euch schmecken.</p></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/lycka-the-grid/lycka-and-welthungerhilfe-in-jeden-becher-lycka-fullen-wir-neb/index.html</link>
             <guid isPermaLink="false">788a25ce-9cd9-4bd1-832b-ecada31e8140</guid>
             <pubDate>Thu, 07 Jan 2016 21:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lycka The Grid Test Site]]></title>
-            <description><![CDATA[<article><h1>Lycka The Grid Test Site</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/248ae7e560012d8fb222ab530acb6b41baab7303.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lycka-the-grid/lycka-the-grid-test-site/index.html</link>
-            <guid isPermaLink="false">04002f44-269c-40e5-bee2-baaf04acc6a9</guid>
-            <pubDate>Thu, 07 Jan 2016 21:13:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
