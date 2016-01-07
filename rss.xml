@@ -4,15 +4,8 @@
         <description><![CDATA[Lycka Frozen Yogurt]]></description>
         <link>https://thegrid.ai/lycka-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 21:49:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lycka-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac1a9ec-255c-44d2-8055-906cfd339b4d.jpg">]]></description>
-            <link>https://thegrid.ai/lycka-the-grid/7641c57a-3d5c-470c-9dcd-56add01246cd/index.html</link>
-            <guid isPermaLink="false">7641c57a-3d5c-470c-9dcd-56add01246cd</guid>
-            <pubDate>Thu, 07 Jan 2016 21:49:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Gleichzeitig hungert weltweit jeder achte Mensch. Jeder achte Mensch. Als ich persönlich Anfing mich näher mit dem Thema Unterernährung auseinanderzusetzen war ich absolut schockiert. Mir war bewusst, dass es ein großes Problem gibt, aber die tatsächlichen Ausmaße waren mir trotz sehr gute Aufklärungsarbeit von Brot für die Welt oder der Welthungerhilfe nie wirklich klar gewesen.</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="http://www.lyckafrozenyogurt.de/assets/uploads/2014/07/0000_Vanilla_Frontside_bio1.png">]]></description>
             <link>https://thegrid.ai/lycka-the-grid/13f42174-5a44-44af-9882-e31169d37feb/index.html</link>
             <guid isPermaLink="false">13f42174-5a44-44af-9882-e31169d37feb</guid>
+            <pubDate>Thu, 07 Jan 2016 21:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.lyckafrozenyogurt.de/assets/uploads/2014/07/lycka_welthungerhilfe_infografik_unterernaehrung@2x1-1024x284.png">]]></description>
+            <link>https://thegrid.ai/lycka-the-grid/deca5363-7fb8-4a7f-bb00-a4dc8677cf40/index.html</link>
+            <guid isPermaLink="false">deca5363-7fb8-4a7f-bb00-a4dc8677cf40</guid>
             <pubDate>Thu, 07 Jan 2016 21:32:58 GMT</pubDate>
         </item>
     </channel>
