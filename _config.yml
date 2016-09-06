@@ -1,20 +1,4 @@
-name: Lycka The Grid
-favicon: null
-layout_spectrum: 0.00097
 typography_spectrum: 0
-title: Lycka Frozen Yogurt
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ebebed'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.00097
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Lycka The Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Lycka Frozen Yogurt
 purpose: []
